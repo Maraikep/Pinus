@@ -1,0 +1,143 @@
+funids	bacids	Sample 	Location	snowcover	Factor	SOM	CN	Moisture	pH
+K-W-2-1-ms115	K-W-2-1-ms29	K.2.1	Kuhtai	yes	Kuh_yes			48.50299401	
+K-W-2-2-ms116	K-W-2-2-ms30	K.2.2	Kuhtai	yes	Kuh_yes			45.94059406	
+K-W-2-3-ms117	K-W-2-3-ms31	K.2.3	Kuhtai	yes	Kuh_yes			21.78217822	
+K-W-2-4-ms118	K-W-2-4-ms32	K.2.4	Kuhtai	yes	Kuh_yes			17.75147929	
+K-W-2-5-ms245	K-W-2-5-ms188	K.2.5	Kuhtai	yes	Kuh_yes			65.53106212	
+K-W-2-6-ms246	K-W-2-6-ms189	K.2.6	Kuhtai	yes	Kuh_yes			52.89421158	
+K-W-2-8-ms248	K-W-2-8-ms191	K.2.8	Kuhtai	yes	Kuh_yes			61.46245059	
+K-W-2-10-ms120	K-W-2-10-ms34	K.2.10	Kuhtai	yes	Kuh_yes			60.75697211	
+K-W-2-11-ms121	K-W-2-11-ms35	K.2.11	Kuhtai	yes	Kuh_yes			43.11377246	
+K-W-2-13-ms123	K-W-2-13-ms37	K.2.13	Kuhtai	yes	Kuh_yes			21.4	
+K-W-2-14-ms124	K-W-2-14-ms38	K.2.14	Kuhtai	yes	Kuh_yes	5.099009901		21.66998012	3.94
+K-W-2-15-ms125	K-W-2-15-ms39	K.2.15	Kuhtai	yes	Kuh_yes			36.8	
+K-S-2-1-ms250	K-S-2-1-ms193	K.2.1	Kuhtai	no	Kuh_no		9.083922836	34.53093812	
+K-S-2-2-ms251	K-S-2-2-ms194	K.2.2	Kuhtai	no	Kuh_no		19.31210289	12.12723658	
+K-S-2-4-ms252	K-S-2-4-ms195	K.2.4	Kuhtai	no	Kuh_no		13.77969397	36.32734531	
+K-S-2-5-ms253	K-S-2-5-ms196	K.2.5	Kuhtai	no	Kuh_no		29.14610299	62.8742515	
+K-S-2-6-ms126	K-S-2-6-ms40	K.2.6	Kuhtai	no	Kuh_no	87.72315036	23.66427045	62.027833	3.48
+K-S-2-7-ms127	K-S-2-7-ms41	K.2.7	Kuhtai	no	Kuh_no		12.28688566	37.1257485	
+K-S-2-8A-ms128	K-S-2-8A-ms42	K.2.8	Kuhtai	no	Kuh_no				
+K-S-2-10-ms130	K-S-2-10-ms44	K.2.10	Kuhtai	no	Kuh_no		29.50670607	46.52087475	
+K-S-2-11-ms131	K-S-2-11-ms45	K.2.11	Kuhtai	no	Kuh_no	93.85321997	23.52727932	62.42544732	3.37
+K-S-2-12-ms132	K-S-2-12-ms46	K.2.12	Kuhtai	no	Kuh_no		16.08048489	45.27162978	
+K-S-2-13-ms133	K-S-2-13-ms47	K.2.13	Kuhtai	no	Kuh_no		20.03411485	65.60636183	
+K-S-2-15-ms255	K-S-2-15-ms198	K.2.15	Kuhtai	no	Kuh_no		22.85779054	57.68463074	
+K-S-2B-ms256	K-S-2B-ms199	K.2.2B	Kuhtai	no	Kuh_no		15.64799196	70	
+PRA-W-1-1-ms257	PRA-W-1-1-ms200	PRA 1-1	Praxmar	yes	Pra_yes	13.54867257		30.13972056	4.02
+PRA-W-1-2-ms258	PRA-W-1-2-ms201	PRA 1i-1	Praxmar	yes	Pra_yes	10.87321164		46.74556213	
+PRA-W-1-3-ms134	PRA-W-1-3-ms48	PRA 1.3	Praxmar	yes	Pra_yes				4.21
+PRA-W-3-3-ms136	PRA-W-3-3-ms50	PRA 3	Praxmar	yes	Pra_yes	18.6338954		38.14229249	
+PRA-W-3-2-ms135	PRA-W-3-2-ms49	PRA 3.2	Praxmar	yes	Pra_yes				3.69
+PRA-W-4-2-ms137	PRA-W-4-2-ms51	PRA 4-2	Praxmar	yes	Pra_yes	49.35618067		66.2055336	3.43
+PRA-W-4-3-ms138	PRA-W-4-3-ms52	PRA 4.3	Praxmar	yes	Pra_yes				4.24
+PRA-W-4-4-ms139	PRA-W-4-4-ms53	PRA 4.4	Praxmar	yes	Pra_yes				
+PRA-S-1-1-ms260	PRA-S-1-1-ms203	PRA1.1	Praxmar	no	Pra_no	19.87658007	13.81192157	40.95427435	2.77
+PRA-S-1-2-ms261	PRA-S-1-2-ms204	PRA1.2	Praxmar	no	Pra_no	15.72717024	11.87954242	30.81510934	3.97
+PRA-S-1-3-ms262	PRA-S-1-3-ms205	PRA1.3	Praxmar	no	Pra_no	42.52376837	15.25641811	34.59244533	3.74
+PRA-S-1-4-ms263	PRA-S-1-4-ms206	PRA1.4	Praxmar	no	Pra_no		16.23094542	42.91417166	
+PRA-S-2-1-ms141	PRA-S-2-1-ms55	PRA2.1	Praxmar	no	Pra_no		26.22288431	15.36926148	
+PRA-S-2-2-ms142	PRA-S-2-2-ms56	PRA2.2	Praxmar	no	Pra_no		32.28346457	51.97628458	
+PRA-S-2-3-ms143	PRA-S-2-3-ms57	PRA2.3	Praxmar	no	Pra_no		26.61649944	52.47524752	
+PRA-S-2-4-ms144	PRA-S-2-4-ms58	PRA2.4	Praxmar	no	Pra_no		28.94981413	60.27944112	
+PRA-S-2-6-ms145	PRA-S-2-6-ms59	PRA2.6	Praxmar	no	Pra_no			18.7250996	
+PRA-S-2-7-ms146	PRA-S-2-7-ms60	PRA2.7	Praxmar	no	Pra_no				
+PRA-S-3-1-ms265	PRA-S-3-1-ms208	PRA3.1	Praxmar	no	Pra_no		16.4246411	59.56175299	
+PRA-S-3-3-ms266	PRA-S-3-3-ms209	PRA3.3	Praxmar	no	Pra_no			30.4950495	3.75
+PRA-S-3-4-ms267	PRA-S-3-4-ms210	PRA3.4	Praxmar	no	Pra_no	8.474913065	9.640755023	26.62721893	3.7
+PRA-S-3-5-ms259	PRA-S-3-5-ms202	PRA3.5	Praxmar	no	Pra_no	50.14406359	16.68285437	40.6374502	3.97
+PRA-S-4-1-ms264	PRA-S-4-1-ms207	PRA4.1	Praxmar	no	Pra_no	33.11846039	22.28374637	29.02584493	3.11
+PRA-S-4-3-ms286	PRA-S-4-3-ms229	PRA4.3	Praxmar	no	Pra_no		21.25295678	25.74850299	
+PRA-S-4-4-ms276	PRA-S-4-4-ms219	PRA4.4	Praxmar	no	Pra_no			32.8	
+PRA-S-4-5-ms281	PRA-S-4-5-ms224	PRA4.5	Praxmar	no	Pra_no	48.48952804	17.84207354	53.09381238	3.14
+PA-W-1-1-ms87	PA-W-1-1-ms1	PA 1-1	Patscherkofel	yes	Pat_yes	78.3271028		58.77712032	3.21
+PA-W-1-2-ms88	PA-W-1-2-ms2	PA 1-2	Patscherkofel	yes	Pat_yes			58	
+PA-W-1-3-ms89	PA-W-1-3-ms3	PA 1-3	Patscherkofel	yes	Pat_yes	91.04040404		57.51295337	4.4
+PA-W-1-4-ms90	PA-W-1-4-ms4	PA 1-4	Patscherkofel	yes	Pat_yes			54.31472081	
+PA-W-1-5-ms91	PA-W-1-5-ms5	PA 1-5	Patscherkofel	yes	Pat_yes	84.26213592		67.33067729	3.05
+PA-W-2-1-ms92	PA-W-2-1-ms6	PA 2-1	Patscherkofel	yes	Pat_yes	84.12871287		65.33864542	3.21
+PA-W-2-2-ms93	PA-W-2-2-ms7	PA 2-2	Patscherkofel	yes	Pat_yes	79.35		61.47704591	3.62
+PA-W-2-3-ms94	PA-W-2-3-ms8	PA 2-3	Patscherkofel	yes	Pat_yes	86.85858586		63.20754717	3.43
+PA-W-2-4-ms230	PA-W-2-4-ms173	PA 2-4	Patscherkofel	yes	Pat_yes			42.18362283	
+PA-W-2-5-ms231	PA-W-2-5-ms174	PA 2-5	Patscherkofel	yes	Pat_yes			60.51587302	
+PA-W-3-1-ms232	PA-W-3-1-ms175	PA3-1	Patscherkofel	yes	Pat_yes	57.05607477		47.81746032	4.96
+PA-W-3-2-ms233	PA-W-3-2-ms176	PA3-2	Patscherkofel	yes	Pat_yes				
+PA-W-3-3-ms95	PA-W-3-3-ms9	PA3-3	Patscherkofel	yes	Pat_yes	54.45454545		44.4	4.38
+PA-W-4-1-ms96	PA-W-4-1-ms10	PA 4-1	Patscherkofel	yes	Pat_yes	42.87931034		52.88270378	3.81
+PA-S-1-1-ms101	PA-S-1-1-ms15	PA1.1	Patscherkofel	no	Pat_no	79.85777614	22.08240309	58.8	3.2
+PA-S-1-2-ms102	PA-S-1-2-ms16	PA1.2	Patscherkofel	no	Pat_no	84.44656489	23.95837535	59.52848723	3.5
+PA-S-1-3-ms235	PA-S-1-3-ms178	PA1.3	Patscherkofel	no	Pat_no	93.70434448	26.69511999	63.4194831	2.97
+PA-S-1-4-ms236	PA-S-1-4-ms179	PA1.4	Patscherkofel	no	Pat_no		25.94105747	52.6	
+PA-S-1-5-ms237	PA-S-1-5-ms180	PA1.5	Patscherkofel	no	Pat_no		27.01863354	49.6	
+PA-S-2-1-ms238	PA-S-2-1-ms181	PA2.1	Patscherkofel	no	Pat_no	46.12804294	19.01822879	54.58167331	4.56
+PA-S-2-2-ms103	PA-S-2-2-ms17	PA2.2	Patscherkofel	no	Pat_no		23.88502244	41.18811881	
+PA-S-2-3-ms104	PA-S-2-3-ms18	PA2.3	Patscherkofel	no	Pat_no		23.78333071	44.84126984	
+PA-S-2-4-ms105	PA-S-2-4-ms19	PA2.4	Patscherkofel	no	Pat_no	32.76748472	21.6547735	45.30938124	4.26
+PA-S-2-5-ms106	PA-S-2-5-ms20	PA2.5	Patscherkofel	no	Pat_no		11.39481584	40.35433071	
+PA-S-3-1-ms107	PA-S-3-1-ms21	PA3.1	Patscherkofel	no	Pat_no	88.64875389	26.93937559	47.23320158	3.49
+PA-S-3-2-ms108	PA-S-3-2-ms22	PA3.2	Patscherkofel	no	Pat_no		24.37363834	49.90059642	
+PA-S-3-3-ms109	PA-S-3-3-ms23	PA3.3	Patscherkofel	no	Pat_no	45.88037697	21.95121951	41.8972332	3.51
+PA-S-3-4-ms110	PA-S-3-4-ms24	PA3.4	Patscherkofel	no	Pat_no	78.58557845	23.38797814	61.85770751	2.85
+PA-S-3-5-ms240	PA-S-3-5-ms183	PA3.5	Patscherkofel	no	Pat_no		26.17332768	49.4	
+PA-S-4-1-ms241	PA-S-4-1-ms184	PA4.1	Patscherkofel	no	Pat_no	59.98221871	18.69474905	61.50793651	3.77
+PA-S-4-2-ms242	PA-S-4-2-ms185	PA4.2	Patscherkofel	no	Pat_no		24.37407577	389.860835	
+PA-S-4-4-ms111	PA-S-4-4-ms25	PA4.4	Patscherkofel	no	Pat_no	75.49246813	22.24172135	46.54832347	3.37
+PA-S-4-5-ms112	PA-S-4-5-ms26	PA4.5	Patscherkofel	no	Pat_no	82.83345753	17.42897441	25.6916996	
+PRA-bmb-4-1-1-ms170	PRA-bmb-4-1-1-ms84	PRAbmb4.1.1	Praxmar	bmb	PRA				
+PRA-bmb-4-1-3-ms171	PRA-bmb-4-1-3-ms85	PRAbmb4.1.3	Praxmar	bmb	PRA				
+PRA-bmb-4-1-4-ms172	PRA-bmb-4-1-4-ms86	PRAbmb4.1.4	Praxmar	bmb	PRA				
+PRA-bmb-4-1-5-ms282	PRA-bmb-4-1-5-ms225	PRAbmb4.1.5	Praxmar	bmb	PRA				
+PRA-bmb-4-2-1-ms283	PRA-bmb-4-2-1-ms226	PRAbmb4.2.1	Praxmar	bmb	PRA				
+PRA-bmb-4-2-2-ms284	PRA-bmb-4-2-2-ms227	PRAbmb4.2.2	Praxmar	bmb	PRA				
+PRA-bmb-4-2-3-ms285	PRA-bmb-4-2-3-ms228	PRAbmb4.2.3	Praxmar	bmb	PRA				
+PRA-bmb-4-2-4-ms294	PRA-bmb-4-2-4-ms287	PRAbmb4.2.4	Praxmar	bmb	PRA				
+PRA-bmb-4-2-5-ms295	PRA-bmb-4-2-5-ms288	PRAbmb4.2.5	Praxmar	bmb	PRA				
+PRA-bmb-4-3-1-ms296	PRA-bmb-4-3-1-ms289	PRAbmb4.3.1	Praxmar	bmb	PRA				
+PRA-bmb-4-3-2-ms297	PRA-bmb-4-3-2-ms290	PRAbmb4.3.2	Praxmar	bmb	PRA				
+PRA-bmb-4-3-3-ms298	PRA-bmb-4-3-3-ms291	PRAbmb4.3.3	Praxmar	bmb	PRA				
+PRA-bmb-4-3-5-ms299	PRA-bmb-4-3-5-ms292	PRAbmb4.3.5	Praxmar	bmb	PRA				
+PRA-bmb-4-4-1-ms300	PRA-bmb-4-4-1-ms293	PRAbmb4.4.1	Praxmar	bmb	PRA				
+PRA-bmb-4-4-2-ms305	PRA-bmb-4-4-2-ms301	PRAbmb4.4.2	Praxmar	bmb	PRA				
+PRA-bmb-4-4-3-ms306	PRA-bmb-4-4-3-ms302	PRAbmb4.4.3	Praxmar	bmb	PRA				
+PRA-bmb-4-4-4-ms307	PRA-bmb-4-4-4-ms303	PRAbmb4.4.4	Praxmar	bmb	PRA				
+PRA-bmb-4-4-5-ms308	PRA-bmb-4-4-5-ms304	PRAbmb4.4.5	Praxmar	bmb	PRA				
+PRA-bmb-4-5-1-ms234	PRA-bmb-4-5-1-ms177	PRAbmb4.5.1	Praxmar	bmb	PRA				
+PRA-bmb-4-5-2-ms239	PRA-bmb-4-5-2-ms182	PRAbmb4.5.2	Praxmar	bmb	PRA				
+PRA-bmb-4-5-3-ms244	PRA-bmb-4-5-3-ms187	PRAbmb4.5.3	Praxmar	bmb	PRA				
+PRA-bmb-4-5-4-ms249	PRA-bmb-4-5-4-ms192	PRAbmb4.5.4	Praxmar	bmb	PRA				
+PRA-bmb-4-5-5-ms254	PRA-bmb-4-5-5-ms197	PRAbmb4.5.5	Praxmar	bmb	PRA				
+K-bmb-2-1-1-ms272	K-bmb-2-1-1-ms215	Kbmb2.1.1	Kuhtai	bmb	K				
+K-bmb-2-1-2-ms273	K-bmb-2-1-2-ms216	Kbmb2.1.2	Kuhtai	bmb	K				
+K-bmb-2-1-3-ms274	K-bmb-2-1-3-ms217	Kbmb2.1.3	Kuhtai	bmb	K				
+K-bmb-2-1-4-ms275	K-bmb-2-1-4-ms218	Kbmb2.1.4	Kuhtai	bmb	K				
+K-bmb-2-1-5-ms161	K-bmb-2-1-5-ms75	Kbmb2.1.5	Kuhtai	bmb	K				
+K-bmb-2-3-1-ms162	K-bmb-2-3-1-ms76	Kbmb2.3.1	Kuhtai	bmb	K				
+K-bmb-2-3-3-ms163	K-bmb-2-3-3-ms77	Kbmb2.3.3	Kuhtai	bmb	K				
+K-bmb-2-3-4-ms164	K-bmb-2-3-4-ms78	Kbmb2.3.4	Kuhtai	bmb	K				
+K-bmb-2-4-1-ms277	K-bmb-2-4-1-ms220	Kbmb2.4.1	Kuhtai	bmb	K				
+K-bmb-2-4-2-ms278	K-bmb-2-4-2-ms221	Kbmb2.4.2	Kuhtai	bmb	K				
+K-bmb-2-4-4-ms279	K-bmb-2-4-4-ms222	Kbmb2.4.4	Kuhtai	bmb	K				
+K-bmb-2-5-1-ms280	K-bmb-2-5-1-ms223	Kbmb2.5.1	Kuhtai	bmb	K				
+K-bmb-2-5-2-ms165	K-bmb-2-5-2-ms79	Kbmb2.5.2	Kuhtai	bmb	K				
+K-bmb-2-5-3-ms166	K-bmb-2-5-3-ms80	Kbmb2.5.3	Kuhtai	bmb	K				
+K-bmb-2-5-4-ms167	K-bmb-2-5-4-ms81	Kbmb2.5.4	Kuhtai	bmb	K				
+NEG-bmb1-ms168	NEG-bmb1-ms82	NEGbmb1			NEG				
+NEG-bmb2-ms169	NEG-bmb2-ms83	NEGbmb2			NEG				
+PA-bmb-2-3-ms159	PA-bmb-2-3-ms73	PAbmb2.3	Patscherkofel	bmb	PA				
+PA-bmb-2-4-ms160	PA-bmb-2-4-ms74	PAbmb2.4	Patscherkofel	bmb	PA				
+PA-bmb-3-2-ms147	PA-bmb-3-2-ms61	PAbmb3.2	Patscherkofel	bmb	PA				
+	PA-bmb-3-3-ms62	PAbmb3.3	Patscherkofel	bmb	PA				
+	PA-bmb-3-4-ms63	PAbmb3.4	Patscherkofel	bmb	PA				
+PA-bmb-3-5-ms150	PA-bmb-3-5-ms64	PAbmb3.5	Patscherkofel	bmb	PA				
+PA-bmb-4-1-ms151	PA-bmb-4-1-ms65	PAbmb4.1	Patscherkofel	bmb	PA				
+	PA-bmb-4-2-ms66	PAbmb4.2	Patscherkofel	bmb	PA				
+	PA-bmb-4-3-ms67	PAbmb4.3	Patscherkofel	bmb	PA				
+PA-bmb-4-5-ms154	PA-bmb-4-5-ms68	PAbmb4.5	Patscherkofel	bmb	PA				
+	PA-bmb-5-1-ms211	PAbmb5.1	Patscherkofel	bmb	PA				
+	PA-bmb-5-2-ms212	PAbmb5.2	Patscherkofel	bmb	PA				
+	PA-bmb-5-3-ms213	PAbmb5.3	Patscherkofel	bmb	PA				
+	PA-bmb-5-5-ms214	PAbmb5.5	Patscherkofel	bmb	PA				
+PA-bmb-6-2-ms155	PA-bmb-6-2-ms69	PAbmb6.2	Patscherkofel	bmb	PA				
+PA-bmb-6-3-ms156	PA-bmb-6-3-ms70	PAbmb6.3	Patscherkofel	bmb	PA				
+PA-bmb-6-4-ms157	PA-bmb-6-4-ms71	PAbmb6.4	Patscherkofel	bmb	PA				
+PA-bmb-6-5-ms158	PA-bmb-6-5-ms72	PAbmb6.5	Patscherkofel	bmb	PA				
